@@ -18,5 +18,5 @@ Generally, items on the website affect the governance of CF and therefore requir
 However, minor changes of a technical nature may be implemented upon approval of a member of the [CF Information Management and Support Team](info-mgmt).
 
 [cf-website]: http://cfconventions.org/
-[info-mgmt]: https://github.com/orgs/cf-convention/teams/info-mgmt
-[gov-panel]: http://cfconventions.org/governance.html
+[info-mgmt]: http://cfconventions.org/governance.html#information-management-and-support
+[gov-panel]: http://cfconventions.org/governance.html#governance-panel
